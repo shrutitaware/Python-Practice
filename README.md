@@ -1,2 +1,2 @@
 # Python-Practice-Scripts
-Python program scrips
+Python program scripts
